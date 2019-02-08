@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/theforeman/forklift/master/docs/forklift.png" height="100px">
 
+Katello Development Environment: [![Katello Development Environment Status](https://ci.centos.org/job/foreman-katello-devel-test/badge/icon)](https://ci.centos.org/job/foreman-katello-devel-test/)
+
 # Forklift: lifting Foreman into your environment
 
 Forklift provides tools to create Foreman/Katello environments for development, testing and production configurations. Whether you are a developer wanting an environment to write code, or a user wanting to spin up the latest production environment for deployment or evaluation Forklift has you covered.
